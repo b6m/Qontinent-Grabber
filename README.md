@@ -1,1 +1,2 @@
 # Qontinent-Grabber
+Minimalistic grabber
